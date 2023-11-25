@@ -52,7 +52,7 @@ In this Todo list a user can add tasks, delete either one or all the tasks and m
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-NAN
+https://mustafa-tariq23.github.io/Todo-List/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
