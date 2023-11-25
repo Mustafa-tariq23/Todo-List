@@ -1,0 +1,104 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    border-radius: 40px;
+    margin: 10px;
+}
+
+header:hover{
+    background-color: #6eb171;
+}
+
+button{
+    border-radius: 30px;
+}
+
+input{
+    border-radius: 10px;
+}
+
+h1 {
+    margin: 0;
+}
+
+#newToDo {
+    margin: 10px 0;
+    padding: 8px;
+    justify-content: center;
+}
+
+.addNewToDo{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+#addTodo {
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+}
+
+#addTodo:hover {
+    background-color: #45a049;
+}
+
+#todoList {
+    list-style-type: none;
+    padding: 0;
+    /* position: sticky;
+    left: 94%; */
+}
+
+li {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+button {
+    background-color: #f44336;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #d32f2f;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Sticky delete button */
+#todoList li button {
+    position: sticky;
+    left: 95%;
+    background-color: #f44336;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#todoList li button:hover {
+    background-color: #d32f2f;
+}
