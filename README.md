@@ -1,5 +1,5 @@
 # Todo-List
- Todo list for Practicing JAVASCRIPT. In this Todo list a user can add tasks, delete either one or all the tasks and mark the tasks as completed. The list will also be stored in local storage so when the user will reload the page, the tasks will not disappear.
+ Todo list for JAVASCRIPT Practice.
 
 <!-- TABLE OF CONTENTS -->
 
@@ -9,11 +9,6 @@
   - [🛠 Built With](#built-with)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Install](#install)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -21,9 +16,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Poertfolio for mobile] <a name="about-project"></a>
+# 📖 Todo List <a name="about-project"></a>
 
-My project name is Mobile-only portfolio which I have made by using the design from a Figma template.
+In this Todo list a user can add tasks, delete either one or all the tasks and mark the tasks as completed. The list will also be stored in local storage so when the user will reload the page, the tasks will not disappear.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -32,13 +27,14 @@ My project name is Mobile-only portfolio which I have made by using the design f
   <ul>
     <li><a href="https://reactjs.org/">HTML</a></li>
     <li><a href="https://reactjs.org/">CSS</a></li>
+    <li><a href="https://reactjs.org/">JavaScript</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Live Server</a></li>
+    <li>Live Server</li>
   </ul>
 </details>
 
@@ -46,7 +42,8 @@ My project name is Mobile-only portfolio which I have made by using the design f
 
 ### Key Features <a name="key-features"></a>
 
-- I have made it for only mobile phones and i have set it's width to 320px which is exact for average mobile phone
+- The Todo list have the feature of adding and deleting tasks.
+- The Todos will also be stored in the local storage and user data will not lost when the page will rerender
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -59,39 +56,6 @@ NAN
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-- Github account
-- Vs Code
-- Some basic knowledge of HTML & CSS
-- A PC
-- Internet
- 
-### Setup
-
-Clone this repository to your desired folder using git clone "repo url"
-
-### Install
-
-Install this project with:
-
-Git
-
-### Deployment
-
-You can deploy this project using:
-
-Git
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -99,7 +63,7 @@ Git
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@Mustafa-tariq23](https://github.com/Mustafa-tariq23)
 - Twitter: [@Mustafa15771400](https://twitter.com/Mustafa15771400)
@@ -123,7 +87,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project just follow me. No need to text me.
+Follow me on Github, Twitter and linkedIn and feel free to dm me anytime.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
